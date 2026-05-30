@@ -1,4 +1,5 @@
-#integrantes del equipo
+## Integrantes del equipo
+
 Shirly Eunice Hernandez Saquic 3190 15 8021
 
 Glendy Maribel González Guite 090 19 1823
