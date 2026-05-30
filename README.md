@@ -1,3 +1,8 @@
+#integrantes del equipo
+Shirly Eunice Hernandez Saquic 3190 15 8021
+Glendy Maribel González Guite 090 19 1823
+Martir Alexander Vasquez 5190-17-17289
+
 # sistema-reclutamiento-ia
 Proyecto Inteligencia Artifical sobre un sistema de reclutamiento
 
