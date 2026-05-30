@@ -61,7 +61,7 @@ Por ejemplo:
 ## Herramientas utilizadas
 
  Herramienta         Uso en el proyecto                 
- ------------------  ---------------------------------- 
+ -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-* 
  Python              Lenguaje principal de programación 
  Streamlit           Creación de la interfaz web       
  SQLite              Base de datos local               
@@ -179,5 +179,28 @@ Esta versión corresponde a una demo académica, por lo que tiene algunas limita
 El Sistema Inteligente de Reclutamiento con IA demuestra cómo se pueden integrar desarrollo web, base de datos e inteligencia artificial para apoyar el proceso de selección de personal.
 La solución permite reducir tiempo, organizar información, generar recomendaciones y apoyar al reclutador en la toma de decisiones.
 El sistema no busca sustituir al reclutador, sino funcionar como una herramienta de apoyo para mejorar el análisis inicial de candidatos.
+
+##Imagenes
+## Capturas del sistema
+
+### Registro de plaza
+
+![Registro de plaza](imagenes/Registrar_plaza.png)
+
+### Carga de CV
+
+![Carga de CV](imagenes/Cargar_CV.png)
+
+### Análisis de compatibilidad
+
+![Análisis de compatibilidad](imagenes/actualizar_compatibilidad.png)
+
+### Ranking de candidatos
+
+![Ranking de candidatos](imagenes/Ranking.png)
+
+### Chatbot
+
+![Chatbot](imagenes/Chatbot.png)
 
 
